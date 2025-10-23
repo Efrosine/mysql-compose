@@ -120,7 +120,7 @@ docker-compose --version
 ### 1. Clone or Download
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Efrosine/mysql-compose.git
 cd mysql-db
 ```
 
